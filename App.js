@@ -8,7 +8,7 @@ import 'firebase/compat/firestore';
 import Constants from 'expo-constants';
 import * as Notifications from 'expo-notifications';
 
-console.log('hello world')
+
 
 
 const firebaseConfig = {
